@@ -1,3 +1,4 @@
+
 # AulaPokeAPI
 # O Agente POKE API de Automação de QA
 
@@ -220,6 +221,9 @@ A página será um dashboard profissional contendo:
 - **Tempo de Execução:** Quanto tempo cada Pokémon levou para ser validado.
 - **Detalhes de Erro:** Se algum teste falhar (como o nosso teste de contrato de "movimentos"), o HTML mostrará o "Traceback" (o caminho do erro) destacado em vermelho.
 - **Ambiente:** Informações sobre o sistema (Python version, plataforma, etc.).
+
+- Link -quaint-dish-4a7.notion.site/O-Agente-POKE-API-de-Automa-o-de-QA-34faf69172ee8015b034ca6f20784c02
+- 
 
 ---
 
